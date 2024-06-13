@@ -10,7 +10,10 @@
     margin: 0;
     
 }
-    .container1{
+.navigation ul{
+ color:#274c77;
+}
+.container1{
     display: flex;
     flex-direction: column;
     align-items: center;
