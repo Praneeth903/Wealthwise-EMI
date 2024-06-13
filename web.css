@@ -10,8 +10,12 @@
     margin: 0;
     
 }
-.navigation ul{
+.nav-item .nav-link{
  color:#274c77;
+}
+.nav-item .nav-link:hover{
+    color: #a3cef1;
+    transition: all 0.5s ease;
 }
 .container1{
     display: flex;
@@ -20,6 +24,7 @@
     justify-content: center;
     height: 100vh;
     background-color: #274c77;
+    
 }
 
 .maincontainer{
